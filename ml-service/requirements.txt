@@ -1,0 +1,7 @@
+fastapi>=0.110
+uvicorn>=0.29
+scikit-learn>=1.4
+numpy
+pandas
+joblib
+chromadb>=0.5

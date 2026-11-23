@@ -1,0 +1,21 @@
+# docker compose up --build   ->  app on http://localhost:5173
+services:
+  ml:
+    build: ./ml-service
+    ports: ["8000:8000"]
+    volumes: ["chroma:/srv/chroma_db"]
+  backend:
+    build: ./backend
+    ports: ["5001:5000"]
+    environment:
+      ML_URL: http://ml:8000
+      JWT_SECRET: ${JWT_SECRET:-change-me}
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY:-}
+      DEV_OTP: "true"
+    volumes: ["dbdata:/app/data", "uploads:/app/uploads"]
+    depends_on: [ml]
+  frontend:
+    build: ./frontend
+    ports: ["5173:80"]
+    depends_on: [backend]
+volumes: { chroma: {}, dbdata: {}, uploads: {} }

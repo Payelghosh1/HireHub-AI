@@ -1,0 +1,61 @@
+id,name,college,degree,subject,cgpa,graduationYear,skills,projects,experience,targetRole
+1,Vikram Singh,Anna University,B.Tech,CSE,6.7,2026,"Kotlin, REST API, Java, Git, Firebase","Built a android developer project using Kotlin, REST API, Java.",1 year experience as trainee,Android Developer
+2,Isha Reddy,NIT Durgapur,B.Tech,CSE,8.7,2027,"Pandas, Machine Learning, Python, PyTorch","Built a machine learning engineer project using Pandas, Machine Learning, Python.",,Machine Learning Engineer
+3,Arjun Gupta,NIT Durgapur,B.Tech,IT,7.9,2025,"Node.js, React, MongoDB","Built a full stack developer project using Node.js, React, MongoDB.",Open-source contributor,Full Stack Developer
+4,Priya Mukherjee,Jadavpur University,B.Tech,ECE,9.2,2027,"Django, PostgreSQL, Python","Built a python developer project using Django, PostgreSQL, Python.",Open-source contributor,Python Developer
+5,Nikhil Sharma,Anna University,B.Tech,CSE,7.8,2027,"Machine Learning, Python, TensorFlow, Pandas, Docker, AWS","Built a machine learning engineer project using Machine Learning, Python, TensorFlow.",1 year experience as trainee,Machine Learning Engineer
+6,Isha Verma,Heritage Institute of Technology,MCA,MCA,8.4,2026,"HTML, React, JavaScript, CSS","Built a frontend developer project using HTML, React, JavaScript.",Internship (3 months),Frontend Developer
+7,Kavya Das,BITS Pilani,B.Tech,ECE,9.0,2025,"AWS, Linux, Kubernetes, Docker, Git","Built a devops engineer project using AWS, Linux, Kubernetes.",Open-source contributor,DevOps Engineer
+8,Rohan Iyer,BITS Pilani,MCA,MCA,7.2,2027,"REST API, Java, Kotlin, Git, Firebase","Built a android developer project using REST API, Java, Kotlin.",1 year experience as trainee,Android Developer
+9,Pooja Nair,IIIT Hyderabad,MCA,MCA,8.3,2027,"Kubernetes, Docker","Built a devops engineer project using Kubernetes, Docker.",Open-source contributor,DevOps Engineer
+10,Kavya Banerjee,Manipal Institute of Technology,MCA,MCA,7.3,2027,"Python, LLM","Built a ai engineer project using Python, LLM.",1 year experience as trainee,AI Engineer
+11,Priya Joshi,IIIT Hyderabad,B.Tech,IT,7.1,2027,"TensorFlow, Machine Learning, Pandas, Python, Docker","Built a machine learning engineer project using TensorFlow, Machine Learning, Pandas.",Internship (3 months),Machine Learning Engineer
+12,Rohan Banerjee,IIIT Hyderabad,B.Tech,CSE,7.2,2026,"REST API, Spring Boot, Git, Docker","Built a java developer project using REST API, Spring Boot, Git.",,Java Developer
+13,Arjun Verma,Heritage Institute of Technology,B.Tech,ECE,6.3,2025,"AWS, Docker","Built a devops engineer project using AWS, Docker.",1 year experience as trainee,DevOps Engineer
+14,Pooja Das,NIT Durgapur,B.Tech,ECE,7.4,2025,"Prompt Engineering, LLM, Python","Built a ai engineer project using Prompt Engineering, LLM, Python.",,AI Engineer
+15,Riya Singh,Manipal Institute of Technology,B.Tech,CSE,8.0,2027,"MongoDB, Node.js","Built a backend developer project using MongoDB, Node.js.",Internship (3 months),Backend Developer
+16,Divya Joshi,NIT Durgapur,B.Tech,CSE,9.2,2025,"Linux, Kubernetes, AWS, Azure, Bash","Built a devops engineer project using Linux, Kubernetes, AWS.",Internship (3 months),DevOps Engineer
+17,Meera Gupta,Manipal Institute of Technology,B.Tech,CSE,7.6,2025,"Python, REST API, PostgreSQL, Django, Flask, AWS","Built a python developer project using Python, REST API, PostgreSQL.",Internship (3 months),Python Developer
+18,Meera Das,KIIT,B.Tech,IT,6.8,2025,"PostgreSQL, REST API, Django, Python, Docker, AWS","Built a python developer project using PostgreSQL, REST API, Django.",1 year experience as trainee,Python Developer
+19,Priya Gupta,BITS Pilani,MCA,MCA,8.4,2026,"Node.js, REST API, Docker","Built a backend developer project using Node.js, REST API, Docker.",Open-source contributor,Backend Developer
+20,Aarav Das,IIIT Hyderabad,B.Tech,ECE,9.3,2027,"Python, LLM, Docker, NLP","Built a ai engineer project using Python, LLM, Docker.",,AI Engineer
+21,Sneha Mukherjee,SRM University,B.Tech,ECE,8.2,2026,"JavaScript, Git, Jest, SQL, CI/CD","Built a qa / test engineer project using JavaScript, Git, Jest.",,QA / Test Engineer
+22,Meera Joshi,Heritage Institute of Technology,B.Tech,ECE,7.0,2026,"Prompt Engineering, LLM, RAG, LangChain, NLP","Built a ai engineer project using Prompt Engineering, LLM, RAG.",,AI Engineer
+23,Amit Sharma,KIIT,MCA,MCA,7.6,2025,"RAG, LLM, LangChain","Built a ai engineer project using RAG, LLM, LangChain.",Internship (3 months),AI Engineer
+24,Vikram Nair,VIT Vellore,B.Tech,IT,9.2,2026,"Linux, AWS, Kubernetes","Built a devops engineer project using Linux, AWS, Kubernetes.",Open-source contributor,DevOps Engineer
+25,Riya Sharma,KIIT,B.Tech,ECE,7.4,2025,"JavaScript, HTML","Built a frontend developer project using JavaScript, HTML.",,Frontend Developer
+26,Meera Gupta,Heritage Institute of Technology,B.Tech,ECE,6.8,2027,"LLM, Prompt Engineering, Docker, NLP","Built a ai engineer project using LLM, Prompt Engineering, Docker.",Internship (3 months),AI Engineer
+27,Amit Banerjee,Jadavpur University,B.Tech,ECE,7.0,2026,"Machine Learning, Python, AWS","Built a machine learning engineer project using Machine Learning, Python, AWS.",Open-source contributor,Machine Learning Engineer
+28,Rohan Joshi,IIIT Hyderabad,B.Tech,ECE,7.9,2025,"REST API, Express, MongoDB, JWT, Redis","Built a backend developer project using REST API, Express, MongoDB.",Open-source contributor,Backend Developer
+29,Amit Mukherjee,Anna University,B.Tech,IT,9.0,2026,"Express, JavaScript, Node.js, React, Git","Built a full stack developer project using Express, JavaScript, Node.js.",,Full Stack Developer
+30,Pooja Banerjee,Anna University,B.Tech,CSE,8.1,2026,"Docker, AWS, Linux, Bash","Built a devops engineer project using Docker, AWS, Linux.",,DevOps Engineer
+31,Kavya Joshi,NIT Durgapur,B.Tech,ECE,7.5,2025,"NumPy, SQL, Pandas, Python, Machine Learning, Excel","Built a data analyst project using NumPy, SQL, Pandas.",,Data Analyst
+32,Ananya Banerjee,Anna University,B.Tech,ECE,7.3,2025,"RAG, Python","Built a ai engineer project using RAG, Python.",Internship (3 months),AI Engineer
+33,Divya Verma,IIIT Hyderabad,MCA,MCA,7.7,2027,"Kubernetes, Docker, AWS","Built a devops engineer project using Kubernetes, Docker, AWS.",Internship (3 months),DevOps Engineer
+34,Riya Patel,NIT Durgapur,B.Tech,ECE,7.5,2026,"MySQL, Spring Boot, REST API, Microservices, Docker","Built a java developer project using MySQL, Spring Boot, REST API.",1 year experience as trainee,Java Developer
+35,Pooja Das,IIIT Hyderabad,MCA,MCA,7.3,2026,"Postman, Jest, Git","Built a qa / test engineer project using Postman, Jest, Git.",1 year experience as trainee,QA / Test Engineer
+36,Divya Joshi,Heritage Institute of Technology,B.Tech,CSE,8.8,2026,"REST API, Django","Built a python developer project using REST API, Django.",Internship (3 months),Python Developer
+37,Ananya Banerjee,Heritage Institute of Technology,B.Tech,CSE,6.1,2026,"Java, Git, Kotlin, Jetpack, Firebase","Built a android developer project using Java, Git, Kotlin.",Internship (3 months),Android Developer
+38,Arjun Nair,Anna University,B.Tech,IT,7.8,2026,"HTML, CSS, JavaScript","Built a frontend developer project using HTML, CSS, JavaScript.",Internship (3 months),Frontend Developer
+39,Rahul Patel,IIIT Hyderabad,MCA,MCA,8.9,2027,"PostgreSQL, REST API, Django","Built a python developer project using PostgreSQL, REST API, Django.",Open-source contributor,Python Developer
+40,Isha Verma,BITS Pilani,MCA,MCA,8.0,2027,"Docker, Kubernetes, Linux, CI/CD","Built a devops engineer project using Docker, Kubernetes, Linux.",1 year experience as trainee,DevOps Engineer
+41,Siddharth Joshi,BITS Pilani,B.Tech,CSE,8.2,2025,"JavaScript, CSS, React, HTML, Redux, Tailwind","Built a frontend developer project using JavaScript, CSS, React.",Internship (3 months),Frontend Developer
+42,Riya Patel,SRM University,B.Tech,IT,7.5,2027,"MongoDB, Express, React","Built a full stack developer project using MongoDB, Express, React.",Open-source contributor,Full Stack Developer
+43,Isha Reddy,Heritage Institute of Technology,B.Tech,CSE,7.5,2025,"Java, REST API, Kotlin, Git, Jetpack, Microservices","Built a android developer project using Java, REST API, Kotlin.",1 year experience as trainee,Android Developer
+44,Priya Gupta,NIT Durgapur,B.Tech,IT,8.3,2027,"HTML, CSS, JavaScript, React, Tailwind","Built a frontend developer project using HTML, CSS, JavaScript.",,Frontend Developer
+45,Nikhil Reddy,IIIT Hyderabad,B.Tech,IT,7.1,2025,"Node.js, JavaScript, MongoDB, React","Built a full stack developer project using Node.js, JavaScript, MongoDB.",,Full Stack Developer
+46,Aarav Patel,Jadavpur University,B.Tech,CSE,7.2,2025,"Django, PostgreSQL, Docker","Built a python developer project using Django, PostgreSQL, Docker.",1 year experience as trainee,Python Developer
+47,Rahul Gupta,Heritage Institute of Technology,B.Tech,CSE,8.6,2027,"MongoDB, React, Express, Docker, TypeScript","Built a full stack developer project using MongoDB, React, Express.",,Full Stack Developer
+48,Pooja Singh,SRM University,B.Tech,CSE,8.3,2026,"LLM, RAG, Python, Prompt Engineering, LangChain","Built a ai engineer project using LLM, RAG, Python.",Open-source contributor,AI Engineer
+49,Arjun Banerjee,Manipal Institute of Technology,B.Tech,CSE,8.2,2027,"HTML, CSS","Built a frontend developer project using HTML, CSS.",1 year experience as trainee,Frontend Developer
+50,Meera Gupta,IIIT Hyderabad,B.Tech,IT,7.4,2026,"TensorFlow, Machine Learning, Pandas, Python, PyTorch, Docker","Built a machine learning engineer project using TensorFlow, Machine Learning, Pandas.",Open-source contributor,Machine Learning Engineer
+51,Pooja Das,NIT Durgapur,B.Tech,IT,8.8,2025,"Python, Machine Learning, TensorFlow, Pandas, Docker, Scikit-learn","Built a machine learning engineer project using Python, Machine Learning, TensorFlow.",Open-source contributor,Machine Learning Engineer
+52,Meera Joshi,Jadavpur University,B.Tech,ECE,9.3,2027,"HTML, React, CSS, JavaScript, TypeScript, Redux","Built a frontend developer project using HTML, React, CSS.",1 year experience as trainee,Frontend Developer
+53,Isha Nair,Anna University,B.Tech,CSE,6.4,2026,"SQL, Python, Tableau, Machine Learning","Built a data analyst project using SQL, Python, Tableau.",Internship (3 months),Data Analyst
+54,Neha Iyer,Anna University,B.Tech,ECE,6.0,2025,"Python, TensorFlow, Machine Learning, Pandas","Built a machine learning engineer project using Python, TensorFlow, Machine Learning.",Open-source contributor,Machine Learning Engineer
+55,Siddharth Iyer,VIT Vellore,MCA,MCA,7.3,2027,"React, CSS, Redux, Figma","Built a frontend developer project using React, CSS, Redux.",1 year experience as trainee,Frontend Developer
+56,Siddharth Verma,SRM University,B.Tech,ECE,7.7,2026,"Kotlin, REST API, Git, Java, Firebase, Microservices","Built a android developer project using Kotlin, REST API, Git.",Open-source contributor,Android Developer
+57,Nikhil Gupta,KIIT,B.Tech,ECE,8.3,2025,"Python, Django, Flask","Built a python developer project using Python, Django, Flask.",Internship (3 months),Python Developer
+58,Vikram Banerjee,Anna University,B.Tech,IT,6.4,2026,"Python, Pandas, TensorFlow, Machine Learning","Built a machine learning engineer project using Python, Pandas, TensorFlow.",Open-source contributor,Machine Learning Engineer
+59,Rahul Singh,Jadavpur University,B.Tech,ECE,7.5,2026,"REST API, MongoDB, Redis, Docker","Built a backend developer project using REST API, MongoDB, Redis.",,Backend Developer
+60,Aarav Iyer,VIT Vellore,MCA,MCA,8.7,2027,"NumPy, Pandas, SQL, Python, Machine Learning","Built a data analyst project using NumPy, Pandas, SQL.",Open-source contributor,Data Analyst
